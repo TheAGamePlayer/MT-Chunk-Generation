@@ -12,5 +12,8 @@ This data below in the google sheets document has been collected via numerous am
 
 https://docs.google.com/spreadsheets/d/11D6ji3snhccqzCLE5LEUSgsXYaIaUeA8hXbeoG7T5Aw/edit?gid=0#gid=0
 
-Credits: TheAGamePlayer: coder, compiler and tester
-         Kaiserdragon217: Lead Tester and Data collection and organization 
+Credits: 
+
+TheAGamePlayer: coder, compiler and tester
+
+Kaiserdragon217: Lead Tester and Data collection and organization 
