@@ -1,0 +1,10 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mt-chunk-generation",
+	"promos": {
+        "1.21.1-latest": "1.0.0.0R",
+        "1.21.1-recommended": "1.0.0.0R"
+	},
+    "1.21.1": {
+        "1.0.0.0R": "Initial Release."
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "dev.theagameplayer.mtchunkgeneration.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"refmap": "mtchunkgeneration.refmap.json",
+	"mixins": [
+		"ChunkBorderRendererMixin",
+		"NoiseBasedChunkGeneratorMixin"
+	],
+	"client": [],
+	"server": [],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"minVersion": "0.8.7"
+}
