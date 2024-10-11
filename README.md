@@ -1,7 +1,7 @@
 # MT-Chunk-Generation
 
 ///Mod usage///
-
+This Mod was made as a performance improvment mod to improve chunk loading and fps
 ///Data for Mod///
 
 This data below in the google sheets document has been collected via numerous ammounts of testing differrent configurations by variying the ratio between the Biome Chunk Sections(BCS) per a thread and Noise Chunk Sections(NCS) per thread.
