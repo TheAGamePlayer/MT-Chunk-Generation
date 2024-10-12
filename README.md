@@ -5,7 +5,20 @@
 
 This Mod was made as a performance improvment mod to improve chunk loading and fps
 
+![Untitled drawing](https://github.com/user-attachments/assets/4a468648-d0c4-46dd-a995-7419b9eed437)
+
 Discord: https://discord.gg/WAgx39BG
+
+
+![Untitled drawing - Copy (3)](https://github.com/user-attachments/assets/480f979c-87ff-434a-8728-17ab5664a57f)
+
+![MTG OFF](https://github.com/user-attachments/assets/4f8d8ee2-2cfc-4758-829d-6ec7cf64f8e3)
+
+![Untitled drawing - Copy (2)](https://github.com/user-attachments/assets/6350fb82-d1da-4052-bfe2-7f9818269294)
+
+![MTG ON](https://github.com/user-attachments/assets/27782aa5-696d-4e78-b2f9-27c1a8c592e8)
+
+
 
 **Data for Mod**
 
