@@ -31,4 +31,4 @@ Credits:
 
 TheAGamePlayer: coder, compiler and tester
 
-Kaiserdragon217: Lead Tester and Data collection, logo design and organization 
+Kaiserdragon217: Lead Tester and Data collection, logo design and data organization 
