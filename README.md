@@ -29,6 +29,6 @@ https://docs.google.com/spreadsheets/d/11D6ji3snhccqzCLE5LEUSgsXYaIaUeA8hXbeoG7T
 
 Credits: 
 
-TheAGamePlayer: coder, compiler and tester
+TheAGamePlayer: Lead coder, compiler and tester
 
 Kaiserdragon217: Lead Tester and Data collection, logo design and data organization 
