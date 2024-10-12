@@ -15,7 +15,7 @@ Discord: https://discord.gg/WAgx39BG
 
 ![Untitled drawing - Copy (2)](https://github.com/user-attachments/assets/6350fb82-d1da-4052-bfe2-7f9818269294)
 
-![MTG ON](https://github.com/user-attachments/assets/27782aa5-696d-4e78-b2f9-27c1a8c592e8)
+![MTG ON 2](https://github.com/user-attachments/assets/ff330453-8f21-45c9-bbdd-0a36aff18cae)
 
 
 
