@@ -5,7 +5,6 @@
 
 This Mod was made as a performance improvment mod to improve chunk loading and fps
 
-![Untitled drawing](https://github.com/user-attachments/assets/4a468648-d0c4-46dd-a995-7419b9eed437)
 
 Discord: https://discord.gg/WAgx39BG
 
