@@ -45,6 +45,7 @@ public final class MTCGConfig {
 	public static final class ClientConfig {
 		protected final ModConfigSpec spec;
 		public final ModConfigSpec.BooleanValue use3dChunkDebugging;
+		public final ModConfigSpec.BooleanValue useMTGBanners;
 		
 		private ClientConfig() {
 			final ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
@@ -52,6 +53,10 @@ public final class MTCGConfig {
 					.translation(CONFIG + "use_3d_chunk_debugging")
 					.comment("Enables 3D chunk debugging.")
 					.define("use3dChunkDebugging", true);
+			this.useMTGBanners = builder
+					.translation(CONFIG + "use_mtg_banners")
+					.comment("Enables MTG banners.")
+					.define("useMTGBanners", true);
 			this.spec = builder.build();
 		}
 	}

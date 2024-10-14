@@ -21,5 +21,6 @@ public final class MTCGConfigValues {
 	
 	public static final class ClientValues {
 		public final boolean use3dChunkDebugging = MTCGConfig.CLIENT.use3dChunkDebugging.get();
+		public final boolean useMTGBanners = MTCGConfig.CLIENT.useMTGBanners.get();
 	}
 }

@@ -1,5 +1,6 @@
 {
 	"mtchunkgeneration.config.use_3d_chunk_debugging": "Use 3D Chunk Debugging",
+	"mtchunkgeneration.config.use_mtg_banners": "Use MTG Banners",
 	"mtchunkgeneration.config.biome_chunk_sections_per_thread": "Biome Chunk Sections Per Thread",
 	"mtchunkgeneration.config.noise_chunk_sections_per_thread": "Noise Chunk Sections Per Thread"
 }
