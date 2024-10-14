@@ -3,7 +3,7 @@
 ![Untitled drawing - Copy](https://github.com/user-attachments/assets/d4ba0b7d-3882-45a1-80cc-0d2340a6f020)
 
 
-This Mod was made as a performance improvment mod to improve chunk loading and fps
+This Mod was made as a performance improvment mod to improve chunk loading and fps.
 
 
 Discord: https://discord.gg/WAgx39BG
